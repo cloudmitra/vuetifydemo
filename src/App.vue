@@ -8,7 +8,6 @@
       <div class="d-flex align-center">
         vuetifyDemo
       </div>
-
       <v-spacer></v-spacer>
 
   
